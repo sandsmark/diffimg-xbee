@@ -23,6 +23,7 @@
 #include <QMessageBox>
 #include <QDesktopWidget>
 #include <QtCore/QFileInfo>
+#include <QDebug>
 
 #include "DiffImgWindow.h"
 #include "AppSettings.h"
